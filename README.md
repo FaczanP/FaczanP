@@ -1,0 +1,13 @@
+
+- 👋 Hi, I’m @FaczanP
+- 👀 I’m interested in ...
+Html,css,java
+- 🌱 I’m currently learning ...
+Webler learning studio
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+mscf2006@gmail.com
+<!---
+FaczanP/FaczanP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
